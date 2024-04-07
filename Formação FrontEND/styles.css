@@ -1,0 +1,59 @@
+html{ 
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: linear-gradient(45deg,black,rgb(230, 30, 20));
+}
+
+.container{ 
+    max-width: 1100px;
+    background-color: #fff;
+    position: relative;
+    margin: 50px auto;
+    padding: 20px 50px;
+}
+
+.main-title{ 
+    font-size: 40px;
+    text-align: center;
+}
+
+.paragrafo1{ 
+    font-style: italic;
+    text-align: center;
+}
+
+.featured-img{ 
+    text-align: center;
+    margin-top: 30px;
+}
+
+.biografia{ 
+    padding: 25px 0;
+    margin: 25px 0;
+    border-top: 3px dashed #000;
+    border-bottom: 3px dashed #000;
+}
+
+.quotes-container blockquote{ 
+    font-weight: bold;
+    font-size: 30px;
+    font-style: italic;
+    padding-right: 20px;
+}
+
+.Luffy{
+    font-weight: bolder;
+    border-bottom: 3px  dashed black;
+}
+
+.Brook{ 
+    border-bottom: 3px solid #000;
+    font-weight: bolder;
+}
+.img-2{ 
+    text-align: center;
+}
+
+.curiosidades-de-onepiece{ 
+    border-bottom: 3px dotted #000;
+}
+
